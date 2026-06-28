@@ -1,0 +1,103 @@
+*{
+    padding: 0pc;
+    margin: 0pc;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 60pc;
+}
+
+.net{
+    display: flex;
+    
+}
+
+.netflix{
+    margin-left: 8pc;
+    font-size: 42px;
+    margin-top: 20px;
+    color: red;
+}
+.sign{
+    margin-left: 50pc;
+    margin-top: 30px;
+    font-size: 30p5;
+    color: white;
+    padding: 10px 25px;
+    background-color: red;
+    border-radius: 10px 5px;
+
+}
+
+p{
+    text-align: center;
+}
+
+.un{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 12pc;
+    color: white;
+}
+
+.em{
+    display: flex;
+}
+
+input{
+    padding: 15px 9pc 15px 10px;
+    margin-left: 24pc;
+    background-color: black;
+    outline: none;
+    transition: background-image 1s;
+}
+
+input:focus{
+    background-image: url(assets/img/African\ Folktales\ TV\ 3.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.get{
+    font-size: 20px;
+    background-color: red;
+    margin-left: 8px;
+    color: white;
+    padding: 10px 5pc 15px 15px;
+    border-radius: 5px;
+}
+
+.start{
+    margin: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.ready{
+    margin: 15px;
+    color: white;
+    font-size: 16px;
+}
+
+.general{
+    background-image: url(../CSS/netflix\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bg{
+    background: black;
+    opacity: 0.7;
+}
+
